@@ -1,6 +1,6 @@
 ---
 name: "request_test"
-runner_type: "run-python"
+runner_type: "python-script"
 description: "Test a domain on WebPageTest."
 enabled: true
 entry_point: "request_test.py"
