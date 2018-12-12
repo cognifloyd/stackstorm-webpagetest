@@ -1,10 +1,10 @@
 ---
 ref: webpagetest
 name: webpagetest
-description: st2 content pack containing webpagetest integrations
+description: Web page test actions
 keywords:
   - webpagetest
   - benchmarking
-version: 0.3.1
+version: 0.4.0
 author: Linuturk
 email: linuturk@onitato.com
